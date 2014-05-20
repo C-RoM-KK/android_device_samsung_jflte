@@ -122,3 +122,6 @@ TARGET_KERNEL_CONFIG         := jf_eur_defconfig
 
 # Releasetools
 TARGET_RELEASETOOLS_EXTENSIONS := device/samsung/jflte/releasetools
+
+# External apps on SD
+TARGET_EXTERNAL_APPS = sdcard1
